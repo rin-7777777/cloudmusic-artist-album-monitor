@@ -2,7 +2,7 @@
 
 > This crawler was written for my own personal use. The number of artists I care about keeps growing, and opening each artist page one by one every day just to check whether a new song or a cover had been uploaded was way too much hassle. I tried a .bat file before, but it opened a pile of pages in an instant — everything got laggy, there was a chance of getting banned, and it was bad for the CPU. So I wrote this thing (why didn't I think of using a crawler sooner? I really am a fool).
 
-**Language**: [中文](README.md) ｜ [日本語](README.ja.md) ｜ [English](README.en.md)
+**Language**: [中文](../README.md) ｜ [日本語](README.ja.md) ｜ [English](README.en.md)
 
 ---
 
@@ -44,7 +44,7 @@ pip install requests
 | `专辑快照.json` | File A: full album snapshot per artist | read + write |
 | `监控日志.log` | File B: new / removed / failure / recovery log | append |
 
-For daily use you only need these four files in the root; everything else lives in `其他文件/` ("other files"):
+For daily use you only need these four files in the root; everything else lives in `其他文件/` ("other files"). `README.md` (Chinese) stays in the root because that is the one GitHub renders on the repo page:
 
 ```text
 翻唱检查/
@@ -52,8 +52,10 @@ For daily use you only need these four files in the root; everything else lives 
 ├── 歌手配置.txt         File C: artist list
 ├── 专辑快照.json        File A: full snapshot
 ├── 监控日志.log         File B: change log
-├── README.md / README.ja.md / README.en.md
+├── README.md            Chinese readme (the one GitHub renders)
 └── 其他文件/            junk drawer, unrelated to running it
+    ├── README.ja.md       Japanese version
+    ├── README.en.md       this file (English)
     ├── 旧/                the old .bat script and hand-saved web pages
     ├── 测试.py            a one-off script used to probe the API
     └── .vscode/           editor settings

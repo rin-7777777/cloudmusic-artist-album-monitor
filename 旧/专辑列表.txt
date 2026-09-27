@@ -1,0 +1,134 @@
+<ul class="m-cvrlst m-cvrlst-alb4 f-cb" id="m-song-module" data-id="53678173">
+<li>
+<div class="u-cover u-cover-alb3" title="レディース・ロール・メソッド">
+<img src="http://p2.music.126.net/k3YStlHh4OMqicBs1gbegg==/109951173422717415.jpg?param=120y120">
+<a href="/album?id=382588654" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="382588654"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="レディース・ロール・メソッド">
+<a href="/album?id=382588654" class="tit s-fc0">レディース・ロール・メソッド</a>
+</p>
+<p><span class="s-fc3">2026.7.08</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="感電（cover）">
+<img src="http://p2.music.126.net/QOvW1Vewv4y4VsI8oX5mmg==/109951173704697114.jpg?param=120y120">
+<a href="/album?id=391132361" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="391132361"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="感電（cover）">
+<a href="/album?id=391132361" class="tit s-fc0">感電（cover）</a>
+</p>
+<p><span class="s-fc3">2026.6.07</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Little Bit">
+<img src="http://p2.music.126.net/BCMcmnMZHey2Pgp1kFJIFg==/109951173027838014.jpg?param=120y120">
+<a href="/album?id=370383226" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="370383226"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Little Bit">
+<a href="/album?id=370383226" class="tit s-fc0">Little Bit</a>
+</p>
+<p><span class="s-fc3">2026.5.06</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="セレナーデ（cover）">
+<img src="http://p2.music.126.net/PkSCvo4waC4VyU3Wb95n_A==/109951173367515017.jpg?param=120y120">
+<a href="/album?id=381169904" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="381169904"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="セレナーデ（cover）">
+<a href="/album?id=381169904" class="tit s-fc0">セレナーデ（cover）</a>
+</p>
+<p><span class="s-fc3">2026.4.21</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Holy Night LIVE">
+<img src="http://p2.music.126.net/qdpcMgXNYVR95wcAKlGfxQ==/109951173349971353.jpg?param=120y120">
+<a href="/album?id=380575203" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="380575203"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Holy Night LIVE">
+<a href="/album?id=380575203" class="tit s-fc0">Holy Night LIVE</a>
+</p>
+<p><span class="s-fc3">2026.3.03</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ルートキュア">
+<img src="http://p2.music.126.net/O8W5fGlGmL_qYm1OSYgUjw==/109951172322466204.jpg?param=120y120">
+<a href="/album?id=351378029" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="351378029"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ルートキュア">
+<a href="/album?id=351378029" class="tit s-fc0">ルートキュア</a>
+</p>
+<p><span class="s-fc3">2025.12.24</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ビターエチュード">
+<img src="http://p2.music.126.net/n_M5A3iSbxLbC9qwDA9W3A==/109951172125188483.jpg?param=120y120">
+<a href="/album?id=287753947" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="287753947"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ビターエチュード">
+<a href="/album?id=287753947" class="tit s-fc0">ビターエチュード</a>
+</p>
+<p><span class="s-fc3">2025.11.05</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="HOME">
+<img src="http://p2.music.126.net/ljbCrVeWVQZAYKGXi8NBKg==/109951171541122152.jpg?param=120y120">
+<a href="/album?id=280016340" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="280016340"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="HOME">
+<a href="/album?id=280016340" class="tit s-fc0">HOME</a>
+</p>
+<p><span class="s-fc3">2025.9.03</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="BRAIN / covered by 明透">
+<img src="http://p2.music.126.net/M6cXWv1q-31kcLCCafFgAA==/109951171842290027.jpg?param=120y120">
+<a href="/album?id=281275904" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="281275904"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="BRAIN / covered by 明透">
+<a href="/album?id=281275904" class="tit s-fc0">BRAIN / covered by 明透</a>
+</p>
+<p><span class="s-fc3">2025.6.27</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Super Ball">
+<img src="http://p2.music.126.net/nNe3q1fCEWtL8DEvD0toqg==/109951171472881870.jpg?param=120y120">
+<a href="/album?id=278594851" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="278594851"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Super Ball">
+<a href="/album?id=278594851" class="tit s-fc0">Super Ball</a>
+</p>
+<p><span class="s-fc3">2025.6.20</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Link">
+<img src="http://p2.music.126.net/C0lTmmSdIePcSLn1f6nHuA==/109951170912565459.jpg?param=120y120">
+<a href="/album?id=270278407" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="270278407"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Link">
+<a href="/album?id=270278407" class="tit s-fc0">Link</a>
+</p>
+<p><span class="s-fc3">2025.5.07</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="メロウ（cover）">
+<img src="http://p1.music.126.net/Heh-fayj2akoGJ4EFWRbVw==/109951170922515471.jpg?param=120y120">
+<a href="/album?id=270442447" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="270442447"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="メロウ（cover）">
+<a href="/album?id=270442447" class="tit s-fc0">メロウ（cover）</a>
+</p>
+<p><span class="s-fc3">2025.4.18</span></p>
+</li>
+</ul>

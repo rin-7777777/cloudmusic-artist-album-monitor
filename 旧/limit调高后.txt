@@ -1,0 +1,500 @@
+{网址：https://music.163.com/#/artist/album?id=53678173&limit=600&offset=0}
+<ul class="m-cvrlst m-cvrlst-alb4 f-cb" id="m-song-module" data-id="53678173">
+<li>
+<div class="u-cover u-cover-alb3" title="レディース・ロール・メソッド">
+<img src="http://p2.music.126.net/k3YStlHh4OMqicBs1gbegg==/109951173422717415.jpg?param=120y120">
+<a href="/album?id=382588654" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="382588654"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="レディース・ロール・メソッド">
+<a href="/album?id=382588654" class="tit s-fc0">レディース・ロール・メソッド</a>
+</p>
+<p><span class="s-fc3">2026.7.08</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="感電（cover）">
+<img src="http://p2.music.126.net/QOvW1Vewv4y4VsI8oX5mmg==/109951173704697114.jpg?param=120y120">
+<a href="/album?id=391132361" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="391132361"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="感電（cover）">
+<a href="/album?id=391132361" class="tit s-fc0">感電（cover）</a>
+</p>
+<p><span class="s-fc3">2026.6.07</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Little Bit">
+<img src="http://p2.music.126.net/BCMcmnMZHey2Pgp1kFJIFg==/109951173027838014.jpg?param=120y120">
+<a href="/album?id=370383226" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="370383226"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Little Bit">
+<a href="/album?id=370383226" class="tit s-fc0">Little Bit</a>
+</p>
+<p><span class="s-fc3">2026.5.06</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="セレナーデ（cover）">
+<img src="http://p2.music.126.net/PkSCvo4waC4VyU3Wb95n_A==/109951173367515017.jpg?param=120y120">
+<a href="/album?id=381169904" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="381169904"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="セレナーデ（cover）">
+<a href="/album?id=381169904" class="tit s-fc0">セレナーデ（cover）</a>
+</p>
+<p><span class="s-fc3">2026.4.21</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Holy Night LIVE">
+<img src="http://p2.music.126.net/qdpcMgXNYVR95wcAKlGfxQ==/109951173349971353.jpg?param=120y120">
+<a href="/album?id=380575203" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="380575203"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Holy Night LIVE">
+<a href="/album?id=380575203" class="tit s-fc0">Holy Night LIVE</a>
+</p>
+<p><span class="s-fc3">2026.3.03</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ルートキュア">
+<img src="http://p2.music.126.net/O8W5fGlGmL_qYm1OSYgUjw==/109951172322466204.jpg?param=120y120">
+<a href="/album?id=351378029" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="351378029"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ルートキュア">
+<a href="/album?id=351378029" class="tit s-fc0">ルートキュア</a>
+</p>
+<p><span class="s-fc3">2025.12.24</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ビターエチュード">
+<img src="http://p2.music.126.net/n_M5A3iSbxLbC9qwDA9W3A==/109951172125188483.jpg?param=120y120">
+<a href="/album?id=287753947" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="287753947"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ビターエチュード">
+<a href="/album?id=287753947" class="tit s-fc0">ビターエチュード</a>
+</p>
+<p><span class="s-fc3">2025.11.05</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="HOME">
+<img src="http://p2.music.126.net/ljbCrVeWVQZAYKGXi8NBKg==/109951171541122152.jpg?param=120y120">
+<a href="/album?id=280016340" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="280016340"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="HOME">
+<a href="/album?id=280016340" class="tit s-fc0">HOME</a>
+</p>
+<p><span class="s-fc3">2025.9.03</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="BRAIN / covered by 明透">
+<img src="http://p2.music.126.net/M6cXWv1q-31kcLCCafFgAA==/109951171842290027.jpg?param=120y120">
+<a href="/album?id=281275904" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="281275904"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="BRAIN / covered by 明透">
+<a href="/album?id=281275904" class="tit s-fc0">BRAIN / covered by 明透</a>
+</p>
+<p><span class="s-fc3">2025.6.27</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Super Ball">
+<img src="http://p2.music.126.net/nNe3q1fCEWtL8DEvD0toqg==/109951171472881870.jpg?param=120y120">
+<a href="/album?id=278594851" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="278594851"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Super Ball">
+<a href="/album?id=278594851" class="tit s-fc0">Super Ball</a>
+</p>
+<p><span class="s-fc3">2025.6.20</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Link">
+<img src="http://p2.music.126.net/C0lTmmSdIePcSLn1f6nHuA==/109951170912565459.jpg?param=120y120">
+<a href="/album?id=270278407" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="270278407"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Link">
+<a href="/album?id=270278407" class="tit s-fc0">Link</a>
+</p>
+<p><span class="s-fc3">2025.5.07</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="メロウ（cover）">
+<img src="http://p2.music.126.net/Heh-fayj2akoGJ4EFWRbVw==/109951170922515471.jpg?param=120y120">
+<a href="/album?id=270442447" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="270442447"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="メロウ（cover）">
+<a href="/album?id=270442447" class="tit s-fc0">メロウ（cover）</a>
+</p>
+<p><span class="s-fc3">2025.4.18</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ray of hope">
+<img src="http://p2.music.126.net/8cYf_SGLX40F3TfLOhhb-g==/109951170627422723.jpg?param=120y120">
+<a href="/album?id=266396489" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="266396489"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ray of hope">
+<a href="/album?id=266396489" class="tit s-fc0">ray of hope</a>
+</p>
+<p><span class="s-fc3">2025.3.26</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="NERVEs (Vol.2)（cover）">
+<img src="http://p2.music.126.net/HfMigCiinytTZp9SE_V25g==/109951170702632291.jpg?param=120y120">
+<a href="/album?id=268372794" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="268372794"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="NERVEs (Vol.2)（cover）">
+<a href="/album?id=268372794" class="tit s-fc0">NERVEs (Vol.2)（cover）</a>
+</p>
+<p><span class="s-fc3">2025.3.16</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Candle Light LIVE">
+<img src="http://p2.music.126.net/owYfkILhrGoztN65VMgvZA==/109951171842245173.jpg?param=120y120">
+<a href="/album?id=281276271" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="281276271"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Candle Light LIVE">
+<a href="/album?id=281276271" class="tit s-fc0">Candle Light LIVE</a>
+</p>
+<p><span class="s-fc3">2025.3.12</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Aster">
+<img src="http://p2.music.126.net/wzm1WyidqmGO3EWAntNbFg==/109951170290571305.jpg?param=120y120">
+<a href="/album?id=257490242" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="257490242"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Aster">
+<a href="/album?id=257490242" class="tit s-fc0">Aster</a>
+</p>
+<p><span class="s-fc3">2024.12.29</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Bunny Girl">
+<img src="http://p2.music.126.net/zKYzRjUUDAuvJN3_wupU3A==/109951170525980061.jpg?param=120y120">
+<a href="/album?id=264329481" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="264329481"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Bunny Girl">
+<a href="/album?id=264329481" class="tit s-fc0">Bunny Girl</a>
+</p>
+<p><span class="s-fc3">2024.12.12</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Winter Sparkler">
+<img src="http://p2.music.126.net/ApPkOwjdHtMG8fq4oSm3aw==/109951170194309255.jpg?param=120y120">
+<a href="/album?id=255134377" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="255134377"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Winter Sparkler">
+<a href="/album?id=255134377" class="tit s-fc0">Winter Sparkler</a>
+</p>
+<p><span class="s-fc3">2024.12.04</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="アイノ最適解">
+<img src="http://p2.music.126.net/vI103m9TgHPRqEqd8Z5HfQ==/109951170174875955.jpg?param=120y120">
+<a href="/album?id=254536720" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="254536720"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="アイノ最適解 - (爱的最合适答案)">
+<a href="/album?id=254536720" class="tit s-fc0">アイノ最適解</a>
+<span class="s-fc8 f-vam" title="爱的最合适答案"> - (爱的最合适答案)</span>
+</p>
+<p><span class="s-fc3">2024.11.27</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="サンライトLIVE 3">
+<img src="http://p2.music.126.net/Hbt-wvfPA79ZJFfjcPaN9w==/109951171525950936.jpg?param=120y120">
+<a href="/album?id=279676131" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="279676131"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="サンライトLIVE 3 - (SUNLIGHT LIVE3)">
+<a href="/album?id=279676131" class="tit s-fc0">サンライトLIVE 3</a>
+<span class="s-fc8 f-vam" title="SUNLIGHT LIVE3"> - (SUNLIGHT LIVE3)</span>
+</p>
+<p><span class="s-fc3">2024.10.31</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="twilight">
+<img src="http://p2.music.126.net/U7ZbtfNJHF3xX7DS1fqxNg==/109951171529987518.jpg?param=120y120">
+<a href="/album?id=279776340" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="279776340"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="twilight">
+<a href="/album?id=279776340" class="tit s-fc0">twilight</a>
+</p>
+<p><span class="s-fc3">2024.10.31</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="HEAVEN IS GONE">
+<img src="http://p2.music.126.net/BS5ZmVlLj70NjUIQuFV8qQ==/109951170070191352.jpg?param=120y120">
+<a href="/album?id=251732629" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="251732629"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="HEAVEN IS GONE">
+<a href="/album?id=251732629" class="tit s-fc0">HEAVEN IS GONE</a>
+</p>
+<p><span class="s-fc3">2024.10.30</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Shiny">
+<img src="http://p2.music.126.net/IF9dlQa_uNQ4EDgQ74BgqQ==/109951169952101171.jpg?param=120y120">
+<a href="/album?id=247597993" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="247597993"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Shiny">
+<a href="/album?id=247597993" class="tit s-fc0">Shiny</a>
+</p>
+<p><span class="s-fc3">2024.9.18</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Dazzling">
+<img src="http://p2.music.126.net/HPilkguU1-8lN_TG8Z_S2Q==/109951169891920089.jpg?param=120y120">
+<a href="/album?id=245645797" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="245645797"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Dazzling">
+<a href="/album?id=245645797" class="tit s-fc0">Dazzling</a>
+</p>
+<p><span class="s-fc3">2024.8.28</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="地球儀（cover）">
+<img src="http://p2.music.126.net/COlR8mnHij_y3-M9FgvZ6Q==/109951170092025215.jpg?param=120y120">
+<a href="/album?id=252203736" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="252203736"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="地球儀（cover）">
+<a href="/album?id=252203736" class="tit s-fc0">地球儀（cover）</a>
+</p>
+<p><span class="s-fc3">2024.8.25</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Traveling">
+<img src="http://p2.music.126.net/8ECYjUDppHJULfYct9NALQ==/109951169905088040.jpg?param=120y120">
+<a href="/album?id=246034031" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="246034031"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Traveling">
+<a href="/album?id=246034031" class="tit s-fc0">Traveling</a>
+</p>
+<p><span class="s-fc3">2024.8.04</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ブルーナイトダーリン">
+<img src="http://p2.music.126.net/IPdleU_xMFiD-S18YaCiGQ==/109951169702865419.jpg?param=120y120">
+<a href="/album?id=239779472" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="239779472"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ブルーナイトダーリン - (blue night darling)">
+<a href="/album?id=239779472" class="tit s-fc0">ブルーナイトダーリン</a>
+<span class="s-fc8 f-vam" title="blue night darling"> - (blue night darli...</span>
+</p>
+<p><span class="s-fc3">2024.6.26</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="さよーならまたいつか！(cover)">
+<img src="http://p2.music.126.net/OAKE2bmSfTgUhqhYM3F-xw==/109951169851446959.jpg?param=120y120">
+<a href="/album?id=244345424" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="244345424"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="さよーならまたいつか！(cover)">
+<a href="/album?id=244345424" class="tit s-fc0">さよーならまたいつか！(cover)</a>
+</p>
+<p><span class="s-fc3">2024.6.15</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="Spiral">
+<img src="http://p1.music.126.net/Fa9iOaTyWAq1XNcsbiJj0Q==/109951169505156066.jpg?param=120y120">
+<a href="/album?id=192595798" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="192595798"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="Spiral">
+<a href="/album?id=192595798" class="tit s-fc0">Spiral</a>
+</p>
+<p><span class="s-fc3">2024.4.24</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="燈">
+<img src="http://p1.music.126.net/jNoh2c35yGC0bZce19BKvw==/109951169580462611.jpg?param=120y120">
+<a href="/album?id=195476529" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="195476529"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="燈">
+<a href="/album?id=195476529" class="tit s-fc0">燈</a>
+</p>
+<p><span class="s-fc3">2024.4.08</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ミッドナイトガール - imase covered by 明透">
+<img src="http://p1.music.126.net/4h3YL_0dXr1ILR0GvPEylw==/109951173841101962.jpg?param=120y120">
+<a href="/album?id=395048833" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="395048833"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ミッドナイトガール - imase covered by 明透">
+<a href="/album?id=395048833" class="tit s-fc0">ミッドナイトガール - imase covered by 明...</a>
+</p>
+<p><span class="s-fc3">2024.3.04</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="end of a life">
+<img src="http://p1.music.126.net/u7LZZmFRpI4pr6K2KfLWlA==/109951170661038988.jpg?param=120y120">
+<a href="/album?id=267294398" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="267294398"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="end of a life">
+<a href="/album?id=267294398" class="tit s-fc0">end of a life</a>
+</p>
+<p><span class="s-fc3">2023.11.06</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="サンライトLIVE">
+<img src="http://p1.music.126.net/QEtIvireOw2btrKvHEeeqw==/109951168993749902.jpg?param=120y120">
+<a href="/album?id=177228270" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="177228270"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="サンライトLIVE - (SUNLIGHT LIVE)">
+<a href="/album?id=177228270" class="tit s-fc0">サンライトLIVE</a>
+<span class="s-fc8 f-vam" title="SUNLIGHT LIVE"> - (SUNLIGHT LIVE)</span>
+</p>
+<p><span class="s-fc3">2023.10.25</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="サンライトLIVE 2">
+<img src="http://p1.music.126.net/KsGDE0WIykiALyDgArUDJw==/109951168993750837.jpg?param=120y120">
+<a href="/album?id=177228279" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="177228279"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="サンライトLIVE 2 - (SUNLIGHT LIVE2)">
+<a href="/album?id=177228279" class="tit s-fc0">サンライトLIVE 2</a>
+<span class="s-fc8 f-vam" title="SUNLIGHT LIVE2"> - (SUNLIGHT LIVE2)</span>
+</p>
+<p><span class="s-fc3">2023.10.25</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="アンメルト・アンブレラ">
+<img src="http://p1.music.126.net/iq-eC5xo-yt1LpYauqd_7g==/109951168869370939.jpg?param=120y120">
+<a href="/album?id=173349057" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="173349057"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="アンメルト・アンブレラ - (Unmelt Unbrella)">
+<a href="/album?id=173349057" class="tit s-fc0">アンメルト・アンブレラ</a>
+<span class="s-fc8 f-vam" title="Unmelt Unbrella"> - (Unmelt Unbrell...</span>
+</p>
+<p><span class="s-fc3">2023.8.30</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ASU">
+<img src="http://p1.music.126.net/zZj_rMsCtup9F83eEa6Mdg==/109951168543555926.jpg?param=120y120">
+<a href="/album?id=163671585" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="163671585"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ASU">
+<a href="/album?id=163671585" class="tit s-fc0">ASU</a>
+</p>
+<p><span class="s-fc3">2023.4.19</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ライトイヤーズ">
+<img src="http://p1.music.126.net/eW6ldvwmlTLd_PQH1zmtOw==/109951168227101804.jpg?param=120y120">
+<a href="/album?id=158049725" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="158049725"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ライトイヤーズ - (Lightyears)">
+<a href="/album?id=158049725" class="tit s-fc0">ライトイヤーズ</a>
+<span class="s-fc8 f-vam" title="Lightyears"> - (Lightyears)</span>
+</p>
+<p><span class="s-fc3">2023.1.18</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="アンダーブーケ">
+<img src="http://p1.music.126.net/sVywSLkqtuaXjJH8u6mDhA==/109951168571742954.jpg?param=120y120">
+<a href="/album?id=164468581" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="164468581"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="アンダーブーケ - (Under bouquet)">
+<a href="/album?id=164468581" class="tit s-fc0">アンダーブーケ</a>
+<span class="s-fc8 f-vam" title="Under bouquet"> - (Under bouquet)</span>
+</p>
+<p><span class="s-fc3">2022.8.31</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="何様 feat. ぼくのりりっくのぼうよみ / SKY-HI">
+<img src="http://p1.music.126.net/0tZJNa7Zkmfdrvpa7DbPNA==/109951171462665453.jpg?param=120y120">
+<a href="/album?id=278364081" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="278364081"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="何様 feat. ぼくのりりっくのぼうよみ / SKY-HI - (哪位)">
+<a href="/album?id=278364081" class="tit s-fc0">何様 feat. ぼくのりりっくのぼうよみ / SK...</a>
+</p>
+<p><span class="s-fc3">2022.7.28</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="新世界へ">
+<img src="http://p1.music.126.net/aaodQPn7MERCBRlKhrUkRw==/109951168571750722.jpg?param=120y120">
+<a href="/album?id=164468560" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="164468560"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="新世界へ - (To the new world)">
+<a href="/album?id=164468560" class="tit s-fc0">新世界へ</a>
+<span class="s-fc8 f-vam" title="To the new world"> - (To the new world)</span>
+</p>
+<p><span class="s-fc3">2022.7.03</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="赤い洗礼">
+<img src="http://p1.music.126.net/RPuMarGS-GHFWRf6uFDmkQ==/109951168571755579.jpg?param=120y120">
+<a href="/album?id=164468557" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="164468557"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="赤い洗礼 - (Red baptism)">
+<a href="/album?id=164468557" class="tit s-fc0">赤い洗礼</a>
+<span class="s-fc8 f-vam" title="Red baptism"> - (Red baptism)</span>
+</p>
+<p><span class="s-fc3">2022.7.03</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="インパーフェクト">
+<img src="http://p1.music.126.net/3110t1x9tsCUAQqO9cJynw==/109951168571747303.jpg?param=120y120">
+<a href="/album?id=164469569" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="164469569"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="インパーフェクト - (Imperfect)">
+<a href="/album?id=164469569" class="tit s-fc0">インパーフェクト</a>
+<span class="s-fc8 f-vam" title="Imperfect"> - (Imperfect)</span>
+</p>
+<p><span class="s-fc3">2022.6.08</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="スロウリー">
+<img src="http://p1.music.126.net/tbFJkQqPe4PAzN_yJkM7fw==/109951168551090790.jpg?param=120y120">
+<a href="/album?id=163845168" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="163845168"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="スロウリー - (Slowly)">
+<a href="/album?id=163845168" class="tit s-fc0">スロウリー</a>
+<span class="s-fc8 f-vam" title="Slowly"> - (Slowly)</span>
+</p>
+<p><span class="s-fc3">2022.5.06</span></p>
+</li>
+<li>
+<div class="u-cover u-cover-alb3" title="ソラゴト">
+<img src="http://p1.music.126.net/4TQasioabmSb82DQASC0Sg==/109951168567600068.jpg?param=120y120">
+<a href="/album?id=164317124" class="msk"></a>
+<a class="icon-play f-alpha" href="javascript:;" title="播放" data-res-action="play" data-res-type="19" data-res-id="164317124"></a>
+</div>
+<p class="dec dec-1 f-thide2 f-pre" title="ソラゴト - (Fake)">
+<a href="/album?id=164317124" class="tit s-fc0">ソラゴト</a>
+<span class="s-fc8 f-vam" title="Fake"> - (Fake)</span>
+</p>
+<p><span class="s-fc3">2022.5.06</span></p>
+</li>
+</ul>

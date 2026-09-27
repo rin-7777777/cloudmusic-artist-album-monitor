@@ -44,7 +44,20 @@ pip install requests
 | `专辑快照.json` | File A: full album snapshot per artist | read + write |
 | `监控日志.log` | File B: new / removed / failure / recovery log | append |
 
-The `旧/` folder is leftover history (the old .bat script and some hand-saved web pages). It is not used by the program.
+For daily use you only need these four files in the root; everything else lives in `其他文件/` ("other files"):
+
+```text
+翻唱检查/
+├── 专辑监控.py          the main script
+├── 歌手配置.txt         File C: artist list
+├── 专辑快照.json        File A: full snapshot
+├── 监控日志.log         File B: change log
+├── README.md / README.ja.md / README.en.md
+└── 其他文件/            junk drawer, unrelated to running it
+    ├── 旧/                the old .bat script and hand-saved web pages
+    ├── 测试.py            a one-off script used to probe the API
+    └── .vscode/           editor settings
+```
 
 ## Quick start
 
